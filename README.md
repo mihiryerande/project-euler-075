@@ -1,4 +1,7 @@
-# Project Euler - Problem 75 - Singular Integer Right Triangles
+# Project Euler
+
+## Problem 75 - Singular Integer Right Triangles
+
 It turns out that 12 cm is the smallest length of wire that can be bent to form an integer sided right angle triangle in exactly one way, but there are many more examples.
 
 * **12 cm:** ( 3,  4,  5)

@@ -27,7 +27,7 @@ from collections import defaultdict
 from math import floor, gcd, sqrt
 
 
-def main(p_max):
+def main(p_max: int) -> int:
     """
     Returns the number of perimeters `p` ≤ `p_max`,
       from which exactly one integer right triangle can be formed.
